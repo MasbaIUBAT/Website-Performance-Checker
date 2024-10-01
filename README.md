@@ -88,4 +88,4 @@ Ensure that the Chrome WebDriver is compatible with your installed version of Ch
 This script requires internet access to function as it checks live websites.
 Depending on the website, some checks (like loading speed) may vary based on network conditions.
 License
-This project is licensed under the Masba Uddin Rumi.
+This project is licensed under the MIT License - see the LICENSE file for details.
